@@ -7,6 +7,7 @@
 [<img align="left" title="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/csharp/csharp.png" />][csharp]
 [<img align="left" title="GoLang" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/go/go.png" />][golang]
 [<img align="left" title="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/python/python.png" />][python]
+[<img align="left" title="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/swift/swift.png" />][swift]
 
 <br />
 <br />
@@ -32,6 +33,7 @@
 
 [<img align="left" title="NativeScript" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/nativescript/nativescript.png" />][nativescript]
 [<img align="left" title="Xamarin" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/xamarin/xamarin.png" />][xamarin]
+[<img align="left" title="Xamarin" width="46px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/swiftui/swiftui.png" />][swiftui]
 
 <br />
 <br />
@@ -71,6 +73,7 @@
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework
 [golang]: https://golang.org
 [python]: https://www.python.org
+[swift]: https://swift.org/documentation/
 
 [vue]: https://vuejs.org
 [angular]: https://angular.io
@@ -81,6 +84,7 @@
 
 [nativescript]: https://nativescript.org
 [xamarin]: https://dotnet.microsoft.com/apps/xamarin
+[swiftui]: https://developer.apple.com/documentation/swiftui/
 
 [electron]: https://www.electronjs.org
 [wpf]: https://github.com/dotnet/wpf
