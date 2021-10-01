@@ -14,6 +14,7 @@
 
 ### Web Frontend Development:
 
+[<img align="left" title="React" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/react/react.png" />][react]
 [<img align="left" title="VueJS" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/vue/vue.png" />][vue]
 [<img align="left" title="Angular" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/angular/angular.png" />][angular]
 [<img align="left" title="EmberJS" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/ember/ember.png" />][ember]
@@ -31,6 +32,7 @@
 
 ### Mobile Development:
 
+[<img align="left" title="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/react-native/react-native.png" />][react-native]
 [<img align="left" title="NativeScript" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/nativescript/nativescript.png" />][nativescript]
 [<img align="left" title="Xamarin" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/xamarin/xamarin.png" />][xamarin]
 [<img align="left" title="Xamarin" width="46px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/swiftui/swiftui.png" />][swiftui]
