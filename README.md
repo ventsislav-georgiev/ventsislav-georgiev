@@ -77,6 +77,7 @@
 [python]: https://www.python.org
 [swift]: https://swift.org/documentation/
 
+[react]: https://reactjs.org
 [vue]: https://vuejs.org
 [angular]: https://angular.io
 [ember]: https://emberjs.com
@@ -84,6 +85,7 @@
 [express]: https://expressjs.com
 [aspnet]: https://github.com/dotnet/aspnetcore
 
+[react-native]: https://reactnative.dev
 [nativescript]: https://nativescript.org
 [xamarin]: https://dotnet.microsoft.com/apps/xamarin
 [swiftui]: https://developer.apple.com/documentation/swiftui/
