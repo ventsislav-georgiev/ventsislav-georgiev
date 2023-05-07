@@ -67,9 +67,6 @@
 <br />
 <br />
 
-## Latest Activity:
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ventsislav_georgiev&hide_title=true&hide_border=true&bg_color=0000)](https://wakatime.com/@ventsislav_georgiev)
-
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [typescript]: https://www.typescriptlang.org
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework
