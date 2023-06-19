@@ -5,7 +5,7 @@
 [<img align="left" title="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/javascript/javascript.png" />][javascript]
 [<img align="left" title="TypeScript" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/typescript/typescript.png" />][typescript]
 [<img align="left" title="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/csharp/csharp.png" />][csharp]
-[<img align="left" title="GoLang" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/go/go.png" />][golang]
+[<img align="left" title="GoLang" width="46px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />][golang]
 [<img align="left" title="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/python/python.png" />][python]
 [<img align="left" title="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/swift/swift.png" />][swift]
 
@@ -59,7 +59,7 @@
 ### Continuous Integration:
 
 [<img align="left" title="Jenkins" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/jenkins/jenkins.png" />][jenkins]
-[<img align="left" title="Github Actions" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/github/github.png" />][github-actions]
+[<img align="left" title="Github Actions" width="46px" src="https://raw.githubusercontent.com/github/explore/eea6056959c4b39a4e280786b580ed1f2ed81b32/topics/github-desktop/github-desktop.png" />][github-actions]
 [<img align="left" title="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/docker/docker.png" />][docker]
 
 <br />
