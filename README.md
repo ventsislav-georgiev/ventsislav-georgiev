@@ -35,7 +35,7 @@
 [<img align="left" title="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/react-native/react-native.png" />][react-native]
 [<img align="left" title="NativeScript" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/nativescript/nativescript.png" />][nativescript]
 [<img align="left" title="Xamarin" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/xamarin/xamarin.png" />][xamarin]
-[<img align="left" title="Xamarin" width="46px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/swiftui/swiftui.png" />][swiftui]
+[<img align="left" title="SwitftUI" width="46px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/swiftui/swiftui.png" />][swiftui]
 
 <br />
 <br />
@@ -50,7 +50,8 @@
 
 ### Cloud Experience:
 
-[<img align="left" title="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/aws/aws.png" />][aws]
+[<img align="left" title="AWS" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/aws/aws.png" />][aws]
+[<img align="left" title="GCP" width="46px" src="https://raw.githubusercontent.com/github/explore/1ae8e7d73e3a38ec3b8fbe7ce291f1bfdb3fb66d/topics/google-cloud/google-cloud.png" />][gcp]
 [<img align="left" title="Kubernetes" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/kubernetes/kubernetes.png" />][kubernetes]
 
 <br />
@@ -58,8 +59,9 @@
 
 ### Continuous Integration:
 
-[<img align="left" title="Jenkins" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/jenkins/jenkins.png" />][jenkins]
 [<img align="left" title="Github Actions" width="46px" src="https://raw.githubusercontent.com/github/explore/eea6056959c4b39a4e280786b580ed1f2ed81b32/topics/github-desktop/github-desktop.png" />][github-actions]
+[<img align="left" title="Gitlab CI/CD" width="46px" src="https://raw.githubusercontent.com/github/explore/1ae8e7d73e3a38ec3b8fbe7ce291f1bfdb3fb66d/topics/gitlab/gitlab.png" />][gitlab]
+[<img align="left" title="Jenkins" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/jenkins/jenkins.png" />][jenkins]
 [<img align="left" title="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/67facbdc970290df97adcb48c28f9d884bbe8dd8/topics/docker/docker.png" />][docker]
 
 <br />
@@ -91,8 +93,10 @@
 [wpf]: https://github.com/dotnet/wpf
 
 [aws]: https://aws.amazon.com
+[gcp]: https://cloud.google.com
 
-[jenkins]: https://www.jenkins.io
 [github-actions]: https://github.com/features/actions
+[gitlab]: https://docs.gitlab.com/ee/ci
+[jenkins]: https://www.jenkins.io
 [docker]: https://www.docker.com
 [kubernetes]: https://kubernetes.io
